@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAjuBKh4yI651vdfkwrpLb5jHyWbi4Purg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>106496408829</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fluttermine.fluttermine.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>jobfinder-eb6d1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jobfinder-eb6d1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:106496408829:ios:1bf2928e9f356e9038d294</string>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106496408829",
+    "project_id": "jobfinder-eb6d1",
+    "storage_bucket": "jobfinder-eb6d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106496408829:android:f44385697fd839dc38d294",
+        "android_client_info": {
+          "package_name": "com.fluttermine.fluttermine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC15OYOSpCJRmNCDT-EN3EQnldhGWncg9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
